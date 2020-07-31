@@ -5,9 +5,9 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-const char* ssid = "BELL504";
-const char* password = "75655076215737019654302392";
-const char* userId = "dsdq3847f";//Utility coin user id.
+const char* ssid = {YOUR WIFI NAME HERE};
+const char* password = {YOUR WIFI PASSWORD HERE};
+const char* userId = {YOUR USER UTILITY ID};//Utility coin user id.
 
 WiFiClient wifiClient;//Create WiFi client
 
